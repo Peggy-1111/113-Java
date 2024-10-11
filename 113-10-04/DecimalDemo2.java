@@ -13,5 +13,12 @@ public class DecimalDemo2 {
         else {
             System.out.println("不等於 0.3");
         }
+
+        if(op1.add(op2).add(op3).compareTo(result) == 0){
+            System.out.println("等於 0.3");
+        }
+        else{
+            System.out.println("不等於 0.3");
+        }
     }
 } 
