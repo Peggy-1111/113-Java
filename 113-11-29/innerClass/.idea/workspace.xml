@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9a7b2f9-a0ce-49c8-a5c6-a255ff62ab1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AnonymousInnerClass/src/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnonymousInnerClass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enum/src/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enum/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Anemonefish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Diver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Flyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/FlyingFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Helicopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Ocean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Piranha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Seaplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Submarine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/SwimPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance4/src/Swimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance5/src/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfance5/src/Game.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2pVUg7l6CPDxl5rYheqUU2wheeM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a7b2f9-a0ce-49c8-a5c6-a255ff62ab1f" name="Changes" comment="" />
+      <created>1732850846672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732850846672</updated>
+    </task>
+    <servers />
+  </component>
+</project>
